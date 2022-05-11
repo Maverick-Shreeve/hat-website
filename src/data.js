@@ -21,3 +21,21 @@ export const sliderItems = [
       bg: "f5fafd",
     },
   ];
+
+  export const categories = [
+    {
+      id: 1,
+      img: "https://image.shutterstock.com/image-photo/hipster-handsome-male-model-beard-260nw-728194741.jpg",
+      title: "Running Hats",
+    },
+    {
+      id: 2,
+      img: "https://image.shutterstock.com/image-photo/hipster-handsome-male-model-beard-260nw-1057235594.jpg",
+      title: "Dad Hats",
+    },
+    {
+      id: 3,
+      img: "https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/1631/posts/33276/image/Backwards-Snapback-Hat-Mockup-of-a-Trendy-Guy.jpg",
+      title: "Bcuket Hats",
+    },
+  ];
