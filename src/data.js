@@ -39,3 +39,31 @@ export const sliderItems = [
       title: "Bcuket Hats",
     },
   ];
+
+  export const popularProducts = [
+    {
+      id:1,
+      img:"https://www.pngitem.com/pimgs/m/149-1494417_great-hat-transparent-minecraft-creeper-hat-hd-png.png",
+    },
+    {
+      id:2,
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7Hi7hA34lWE-IQUZjSy21cdh6Qj0tRbSutC-sA9B9qkVjrSPt2QOl386QfhYUXChsvw&usqp=CAU",
+    },
+    {
+      id:3,
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ZdypxjIUpREz2bX-3RXkSNPkdYVYxhHvFw&usqp=CAU",
+    },
+    {
+      id:4,
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRqoS-sNOlNwTVqsNjmKI-HutFu_sQxx2JQ&usqp=CAU",
+    },
+    {
+      id:5,
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QMY7hYAsnHZBH3AXLhg5ZOo0f4ChnJLgpA&usqp=CAU",
+    },
+    {
+      id:6,
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHYqWKVrql-8nRW07w9UYFQSobecEtB67Lg&usqp=CAU",
+    },
+   
+  ]

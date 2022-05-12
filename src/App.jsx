@@ -1,21 +1,12 @@
-import React from "react";
-import Navbar from "./components/Navbar";
-import Announcement from "./components/Announcement";
-import Slider from "./components/Slider";
-import Categories from "./components/Categories";
+import Product from "./pages/Product"
+import ProductList from "./pages/ProductList";
+import Home from "./pages/Home";
 
 
 const App = () => {
-  return(
-    <div>
-      <Announcement/>
-      <Navbar/>
-      <Slider />
-      <Categories />
-    </div>
-
-  ) 
+  return <Product />;
 };
+
 
 //yarn start in cd hat website to start server
 
