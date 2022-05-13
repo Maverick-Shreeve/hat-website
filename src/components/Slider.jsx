@@ -2,6 +2,7 @@ import { useState } from "react";
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons";
 import styled from "styled-components";
 import { sliderItems } from "../data";
+import { mobile } from "../responsive";
 
 
 const Container = styled.div`
@@ -11,7 +12,7 @@ const Container = styled.div`
   position: relative;
   overflow: hidden;
   {/*the overflow makes the transition cleaner*/}
- 
+  ${mobile({ display: "none" })}
 `;
 
 const Arrow = styled.div`
