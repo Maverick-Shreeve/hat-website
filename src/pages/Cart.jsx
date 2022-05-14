@@ -79,6 +79,8 @@ const Details = styled.div`
 
 const ProductName = styled.span``;
 
+const ProductId = styled.span``;
+
 
 const PriceDetail = styled.div`
   flex: 1;
@@ -168,6 +170,9 @@ const Cart = () => {
                   <ProductName>
                     <b>Product:</b> Bucket Hat
                   </ProductName>
+                  <ProductId>
+                    <b>ID:</b> 83813518568
+                  </ProductId>
                 </Details>
               </ProductDetail>
               <PriceDetail>
@@ -187,6 +192,9 @@ const Cart = () => {
                   <ProductName>
                     <b>Product:</b> Dad Hat
                   </ProductName>
+                  <ProductId>
+                    <b>ID:</b> 83813718520
+                  </ProductId>
                 </Details>
               </ProductDetail>
               <PriceDetail>
